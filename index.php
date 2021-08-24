@@ -52,7 +52,7 @@
 			include 'Paginas/CompletarPerfil.php';
 			exit();
 		}
-
+		//modificacion
 		$Nivel = isLogged();
 
 
